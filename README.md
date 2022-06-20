@@ -1,6 +1,6 @@
 This is the app from the [Joke API Rapid API tutorial](https://rapidapi.com/humorapi/api/humor-jokes-and-memes/tutorials/how-to-create-a-jokes-app-using-humor-jokes-and-memes-api-and-next-js).
 
-![alt_text](https://humorapi.com/img/tutorial-2/image9.gif "Joke API app")
+![alt_text](https://humorapi.com/img/tutorial-2/image9-small.gif "Joke API app")
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
