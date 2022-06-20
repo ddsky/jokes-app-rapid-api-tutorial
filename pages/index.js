@@ -10,7 +10,7 @@ export default function Home() {
     const options = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': '67c271ac5cmsh69637339f7e7870p1bf1ddjsne9ada738b323',
+        'X-RapidAPI-Key': 'YOUR_KEY',
         'X-RapidAPI-Host': 'humor-jokes-and-memes.p.rapidapi.com'
       }
     };
@@ -27,7 +27,7 @@ export default function Home() {
     const options = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': '67c271ac5cmsh69637339f7e7870p1bf1ddjsne9ada738b323',
+        'X-RapidAPI-Key': 'YOUR_KEY',
         'X-RapidAPI-Host': 'humor-jokes-and-memes.p.rapidapi.com'
       }
     };
