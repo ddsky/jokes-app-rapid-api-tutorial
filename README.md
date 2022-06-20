@@ -1,4 +1,4 @@
-This is the app from the [Joke API Rapid API tutorial](https://rapidapi.com/humorapi/api/humor-jokes-and-memes/tutorials/how-to-create-a-jokes-app-using-humor-jokes-and-memes-api-and-next.js).
+This is the app from the [Joke API Rapid API tutorial](https://rapidapi.com/humorapi/api/humor-jokes-and-memes/tutorials/how-to-create-a-jokes-app-using-humor-jokes-and-memes-api-and-next-js).
 
 ![alt_text](https://humorapi.com/img/tutorial-2/image9.gif "Joke API app")
 
